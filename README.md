@@ -21,6 +21,16 @@ A command-line Expense Tracker built using Python and Object-Oriented Programmin
 * File Handling
 * Exception Handling
 
+## Project Structure
+
+```text
+expense-tracker/
+├── main.py
+├── expense_tracker.py
+├── README.md
+└── .gitignore
+```
+
 ## How to Run
 
 ```bash
